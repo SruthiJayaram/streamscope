@@ -45,7 +45,3 @@ StreamScope is a movie analytics dashboard built using Streamlit and MySQL. It p
 - Add more analytics features.
 - Improve the UI/UX of the dashboard.
 - Optimize database queries for better performance.
-
-## License
-
-This project is licensed under the MIT License.
